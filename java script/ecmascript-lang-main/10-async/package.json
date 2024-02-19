@@ -1,7 +1,0 @@
-{
-  "name": "10-async",
-  "version": "1.0.0",
-  "scripts": {
-    "start":"nodemon for-await.js"
-  }
-}
