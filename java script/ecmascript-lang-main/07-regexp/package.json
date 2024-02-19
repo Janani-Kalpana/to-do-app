@@ -1,0 +1,7 @@
+{
+  "name": "07-regexp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon main.js"
+  }
+}

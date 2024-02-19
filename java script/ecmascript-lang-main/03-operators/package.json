@@ -1,0 +1,10 @@
+{
+  "name": "03-operators",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "start1": "nodemon operator.js",
+    "start2": "nodemon operator2.js"
+  }
+}

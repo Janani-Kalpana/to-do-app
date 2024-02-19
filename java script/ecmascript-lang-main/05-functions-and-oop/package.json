@@ -1,0 +1,25 @@
+{
+  "name": "05-functions-and-oop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "start2": "nodemon functions.js",
+    "start3": "nodemon clousers.js",
+    "start4": "nodemon the-this.js",
+    "start5": "nodemon objects.js",
+    "start6": "nodemon objects2.js",
+    "start7": "nodemon constructor-functions.js",
+    "start8": "nodemon regular-vs-constructor.js",
+    "start9": "nodemon prototypes.js",
+    "start10": "nodemon object-vs-function.js",
+    "start11": "nodemon prototype-chain.js",
+    "start12": "nodemon classes.js",
+    "start13": "nodemon private-in-classes.js",
+    "start14": "nodemon static-in-classes.js",
+    "start15": "nodemon class-expression.js",
+    "start16": "nodemon accessor-notation.js",
+    "start17": "nodemon generator-functions.js",
+    "start18": "nodemon generator-functions2.js"
+  }
+}
